@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="wangzc@219.224.171.202:22">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/tmp/pycharm_project_914" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="wangzc@219.224.171.202:22 (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/LAB/wangzc" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="zhongchi@5104b54u95.zicp.vip:53803">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/zhongchi/文档" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>

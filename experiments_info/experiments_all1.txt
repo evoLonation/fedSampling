@@ -1,0 +1,665 @@
+python FL.py MNIST_shard random	any	0	50	0.1	1	0.1	FALSE	
+python FL.py MNIST_shard	random	any	0	50	0.1	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	random	any	0	50	0.1	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	random	any	0	50	0.1	1	0.1	FALSE	1
+python FL.py MNIST_shard	random	any	0	50	0.1	1	 0.1	FALSE	10
+python FL.py MNIST_shard	random	any	0	50	0.05	1	0.1	FALSE	
+python FL.py MNIST_shard	random	any	0	50	0.05	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	random	any	0	50	0.05	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	random	any	0	50	0.05	1	0.1	FALSE	1
+python FL.py MNIST_shard	random	any	0	50	0.05	1	0.1	FALSE	10
+python FL.py MNIST_shard	random	any	0	50	0.01	1	0.1	FALSE	
+python FL.py MNIST_shard	random	any	0	50	0.01	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	random	any	0	50	0.01	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	random	any	0	50	0.01	1	0.1	FALSE	1
+python FL.py MNIST_shard	random	any	0	50	0.01	1	0.1	FALSE	10
+python FL.py MNIST_shard	random	any	0	50	0.005	1	0.1	FALSE	
+python FL.py MNIST_shard	random	any	0	50	0.005	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	random	any	0	50	0.005	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	random	any	0	50	0.005	1	0.1	FALSE	1
+python FL.py MNIST_shard	random	any	0	50	0.005	1	0.1	FALSE	10
+python FL.py MNIST_shard	random	any	0	50	0.001	1	0.1	FALSE	
+python FL.py MNIST_shard	random	any	0	50	0.001	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	random	any	0	50	0.001	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	random	any	0	50	0.001	1	0.1	FALSE	1
+python FL.py MNIST_shard	random	any	0	50	0.001	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_1	any	0	50	0.1	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_1	any	0	50	0.1	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_1	any	0	50	0.1	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.1	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.1	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_1	any	0	50	0.05	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_1	any	0	50	0.05	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_1	any	0	50	0.05	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.05	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.05	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_1	any	0	50	0.01	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_1	any	0	50	0.01	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_1	any	0	50	0.01	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.01	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.01	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_1	any	0	50	0.005	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_1	any	0	50	0.005	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_1	any	0	50	0.005	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.005	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.005	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_1	any	0	50	0.001	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_1	any	0	50	0.001	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_1	any	0	50	0.001	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.001	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_1	any	0	50	0.001	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.1	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.1	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.1	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.1	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.1	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.05	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.05	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.05	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.05	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.05	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.01	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.01	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.01	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.01	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.01	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.005	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.005	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.005	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.005	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.005	1	0.1	FALSE	10
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.001	1	0.1	FALSE	
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.001	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.001	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.001	1	0.1	FALSE	1
+python FL.py MNIST_shard	clustered_2	cosine	0	50	0.001	1	0.1	FALSE	10
+python FL.py MNIST_shard	perfect	any	0	50	0.1	1	0.1	FALSE	
+python FL.py MNIST_shard	perfect	any	0	50	0.1	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	perfect	any	0	50	0.1	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	perfect	any	0	50	0.1	1	0.1	FALSE	1
+python FL.py MNIST_shard	perfect	any	0	50	0.1	1	0.1	FALSE	10
+python FL.py MNIST_shard	perfect	any	0	50	0.05	1	0.1	FALSE	
+python FL.py MNIST_shard	perfect	any	0	50	0.05	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	perfect	any	0	50	0.05	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	perfect	any	0	50	0.05	1	0.1	FALSE	1
+python FL.py MNIST_shard	perfect	any	0	50	0.05	1	0.1	FALSE	10
+python FL.py MNIST_shard	perfect	any	0	50	0.01	1	0.1	FALSE	
+python FL.py MNIST_shard	perfect	any	0	50	0.01	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	perfect	any	0	50	0.01	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	perfect	any	0	50	0.01	1	0.1	FALSE	1
+python FL.py MNIST_shard	perfect	any	0	50	0.01	1	0.1	FALSE	10
+python FL.py MNIST_shard	perfect	any	0	50	0.005	1	0.1	FALSE	
+python FL.py MNIST_shard	perfect	any	0	50	0.005	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	perfect	any	0	50	0.005	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	perfect	any	0	50	0.005	1	0.1	FALSE	1
+python FL.py MNIST_shard	perfect	any	0	50	0.005	1	0.1	FALSE	10
+python FL.py MNIST_shard	perfect	any	0	50	0.001	1	0.1	FALSE	
+python FL.py MNIST_shard	perfect	any	0	50	0.001	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	perfect	any	0	50	0.001	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	perfect	any	0	50	0.001	1	0.1	FALSE	1
+python FL.py MNIST_shard	perfect	any	0	50	0.001	1	0.1	FALSE	10
+python FL.py MNIST_shard	FedAvg	any	0	50	0.1	1	0.1	FALSE	
+python FL.py MNIST_shard	FedAvg	any	0	50	0.1	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	FedAvg	any	0	50	0.1	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.1	1	0.1	FALSE	1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.1	1	0.1	FALSE	10
+python FL.py MNIST_shard	FedAvg	any	0	50	0.05	1	0.1	FALSE	
+python FL.py MNIST_shard	FedAvg	any	0	50	0.05	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	FedAvg	any	0	50	0.05	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.05	1	0.1	FALSE	1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.05	1	0.1	FALSE	10
+python FL.py MNIST_shard	FedAvg	any	0	50	0.01	1	0.1	FALSE	
+python FL.py MNIST_shard	FedAvg	any	0	50	0.01	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	FedAvg	any	0	50	0.01	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.01	1	0.1	FALSE	1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.01	1	0.1	FALSE	10
+python FL.py MNIST_shard	FedAvg	any	0	50	0.005	1	0.1	FALSE	
+python FL.py MNIST_shard	FedAvg	any	0	50	0.005	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	FedAvg	any	0	50	0.005	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.005	1	0.1	FALSE	1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.005	1	0.1	FALSE	10
+python FL.py MNIST_shard	FedAvg	any	0	50	0.001	1	0.1	FALSE	
+python FL.py MNIST_shard	FedAvg	any	0	50	0.001	1	0.1	FALSE	0.01
+python FL.py MNIST_shard	FedAvg	any	0	50	0.001	1	0.1	FALSE	0.1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.001	1	0.1	FALSE	1
+python FL.py MNIST_shard	FedAvg	any	0	50	0.001	1	0.1	FALSE	10
+python FL.py CIFAR10_nbal_0.001	random	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	10	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	10	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	10	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	10	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	10	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	500	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	500	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	500	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	500	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	500	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.05	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.2	FALSE	
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	random	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_1	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.001	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	random	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_1	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.01	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	random	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_1	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_0.1	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	random	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_1	any	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.1	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.05	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.01	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.005	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.01
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	0.1
+python FL.py CIFAR10_nbal_10.0	clustered_2	cosine	0	100	0.001	1	0.1	FALSE	1
+python FL.py CIFAR10_nbal_0.001	clustered_1	L2	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L2	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L2	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L2	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L2	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L1	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L1	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L1	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L1	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	clustered_1	L1	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	FedAvg	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	FedAvg	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	FedAvg	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	FedAvg	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.001	FedAvg	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L2	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L2	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L2	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L2	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L2	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L1	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L1	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L1	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L1	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	clustered_1	L1	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	FedAvg	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	FedAvg	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	FedAvg	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	FedAvg	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.01	FedAvg	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L2	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L2	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L2	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L2	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L2	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L1	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L1	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L1	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L1	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	clustered_1	L1	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	FedAvg	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	FedAvg	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	FedAvg	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	FedAvg	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_0.1	FedAvg	any	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L2	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L2	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L2	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L2	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L2	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L1	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L1	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L1	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L1	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	clustered_1	L1	0	100	0.001	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	FedAvg	any	0	100	0.1	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	FedAvg	any	0	100	0.05	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	FedAvg	any	0	100	0.01	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	FedAvg	any	0	100	0.005	1	0.1	FALSE	
+python FL.py CIFAR10_nbal_10.0	FedAvg	any	0	100	0.001	1	0.1	FALSE	
