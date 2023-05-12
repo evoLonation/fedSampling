@@ -93,7 +93,8 @@ def loss_dataset(model, train_data, loss_f):
     loss = 0
     device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     for idx, (features, labels) in enumerate(train_data): # 首先给数据集的每一个数据加一个索引号
-        features = features.to(device)    
+        features = features.to(device)   
+        labels = labels.to(device) 
         predictions = model(features)
         loss += loss_f(predictions, labels) # 嵌入loss_f函数，输入预测值与label值，计算损失。
 
