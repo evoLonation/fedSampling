@@ -26,9 +26,9 @@ if dataset == "mnist" :
 elif dataset == "cifar":
 	model = CNN_CIFAR_dropout()
 	if isiid:
-		state_dict = torch.load("../saved_exp_info/final_model/CIFAR10_iid_0.001_random_any_i1000_N100_lr0.05_B50_d1.0_p0.1_m5_0.pth")
+		state_dict = torch.load("../saved_exp_info/final_model/CIFAR10_iid_random_any_i1000_N100_lr0.05_B200_d1.0_p0.1_m5_0.pth")
 	else:
-		state_dict = torch.load("../saved_exp_info/final_model/CIFAR10_nbal_0.001_random_any_i1000_N100_lr0.05_B50_d1.0_p0.1_m5_0.pth")
+		state_dict = torch.load("../saved_exp_info/final_model/CIFAR10_nbal_0.001_random_any_i1000_N100_lr0.05_B200_d1.0_p0.1_m5_0.pth")
 
 model.load_state_dict(state_dict)
 
