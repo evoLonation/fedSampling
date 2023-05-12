@@ -19,9 +19,6 @@ def get_hyperparams(dataset, n_SGD):
 
     elif dataset[:5] == "CIFAR":
         n_iter = 1000
-        # by zzy begin
-        n_iter = 500
-        # by zzy end
 
     if dataset[:5] == "CIFAR":
 
