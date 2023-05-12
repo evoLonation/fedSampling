@@ -150,7 +150,8 @@ def local_learning(model, mu: float, optimizer, train_data, n_SGD: int, loss_f):
         但是其实这个next(iter())就是将train data里面的每一个数据分别迭代return出来。
         '''
         features, labels = next(iter(train_data)) # 可能是这个train_data里面就是包含了feature和label。
-
+        features = features.to(device)
+        labels = labels.to(device)
         optimizer.zero_grad() # 这句的意思是把梯度初始化零，也就是把loss关于weight的导数变为0。基本上对每个batch都执行了这个操作。
 
         predictions = model(features) # 然后基于model和feature，来得到label的预测值
