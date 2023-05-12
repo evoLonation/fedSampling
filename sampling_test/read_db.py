@@ -55,11 +55,10 @@ def create_MNIST_ds_1shard_per_client(n_clients, samples_test): # 给每一个�
     for i in range(10): # 这个10可能与MINIST数据集的种类相关
         row_train, row_test = 0, 0 # 这个又创建了个变量row_train和row_test
         for j in range(10):
-            row_train, shard_train = get_1shard(
-                MNIST_train, row_train, i, samples_train
-            ) # 通过调用get_1shard函数来重复生成训练数据集？分别作为row_train和shard_train
+            row_test, shard_test = get_1shard(
+                MNIST_test, row_test, i, samples_test
+            ) # 通过调用get_1shard函数来重复生成测试数据集，分别作为row_test和shard_test
             shards_test.append([shard_test]) # 通过调用.append函数来扩充shards_test
-
             labels += [[i]]
 
     X_test = np.array(shards_test) # 将创建完成的shards_test数据集变成np.array来作为X.test
