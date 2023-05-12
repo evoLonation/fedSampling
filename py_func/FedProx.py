@@ -68,6 +68,8 @@ def accuracy_dataset(model, dataset):  # 计算在测试数据集上模型的准
     """Compute the accuracy of `model` on `test_data`"""
 
     correct = 0 # 应该是先定义一个变量correct=0
+    
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     '''
     机器学习中有label和feature两个概念：
     1. label是分类，是我们要预测的东西。 
@@ -75,6 +77,7 @@ def accuracy_dataset(model, dataset):  # 计算在测试数据集上模型的准
     3. 如果训练出feature和label之间的关系，那我们可以通过feature来预测label的值。
     '''
     for features, labels in dataset:
+        features = features.to(device)
         predictions = model(features) # 对应注释中，我们根据feature和model，来得出label的prediction
         _, predicted = predictions.max(1, keepdim=True)  # 我明白了，因为.max函数输出的是两个，第一个是每一行的最大值，第二个是每一行中最大值所在的位置，而我们需要的是位置吧，所以前面的“_”仅仅是用于占位的。我们需要的是每一行中最大值所在的位置的索引号
             # 这个Keepdim=True仅仅是为了维持其二维特性，即对应位置操作。
@@ -88,7 +91,9 @@ def accuracy_dataset(model, dataset):  # 计算在测试数据集上模型的准
 def loss_dataset(model, train_data, loss_f):
     """Compute the loss of `model` on `test_data`"""
     loss = 0
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
     for idx, (features, labels) in enumerate(train_data): # 首先给数据集的每一个数据加一个索引号
+        features = features.to(device)    
         predictions = model(features)
         loss += loss_f(predictions, labels) # 嵌入loss_f函数，输入预测值与label值，计算损失。
 
