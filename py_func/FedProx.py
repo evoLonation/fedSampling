@@ -78,6 +78,7 @@ def accuracy_dataset(model, dataset):  # 计算在测试数据集上模型的准
     ''' 
     for features, labels in dataset:
         features = features.to(device)
+        labels = labels.to(device)
         predictions = model(features) # 对应注释中，我们根据feature和model，来得出label的prediction
         _, predicted = predictions.max(1, keepdim=True)  # 我明白了，因为.max函数输出的是两个，第一个是每一行的最大值，第二个是每一行中最大值所在的位置，而我们需要的是位置吧，所以前面的“_”仅仅是用于占位的。我们需要的是每一行中最大值所在的位置的索引号
             # 这个Keepdim=True仅仅是为了维持其二维特性，即对应位置操作。
