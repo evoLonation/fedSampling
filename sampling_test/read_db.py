@@ -63,7 +63,7 @@ def create_MNIST_ds_1shard_per_client(n_clients, samples_test): # 给每一个�
 
     X_test = np.array(shards_test) # 将创建完成的shards_test数据集变成np.array来作为X.test
 
-    y_test = y_train # y_train赋值给y_test
+    y_test = labels # y_train赋值给y_test
 
     folder = "./data/" # 写明数据集所在的文件夹
 
