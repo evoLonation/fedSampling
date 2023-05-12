@@ -7,6 +7,9 @@ def get_hyperparams(dataset, n_SGD):
     This function enables the user to put less input to FL_CS2.py"""
 
     batch_size = 50
+    # by zzy begin
+    batch_size = 200
+    # by zzy end
 
     if dataset == "MNIST_iid":
         n_iter = 600

@@ -69,6 +69,11 @@ from py_func.create_model import load_model  # 调用create_model函数中的loa
 model_0 = load_model(dataset, seed)
 print(model_0)
 
+## by zzy begin 
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+print("Experiment running on device: {}".format(device))
+model_0.to(device=device)
+## by zzy end
 
 """FEDAVG with random sampling"""
 if sampling == "random" and (
