@@ -143,6 +143,7 @@ def difference_models_norm_2(model_1, model_2):
 def local_learning(model, mu: float, optimizer, train_data, n_SGD: int, loss_f):
 # 输入的分别是模型、mu、优化器、训练数据集、SGD的次数、计算loss的函数loss_f
     model_0 = deepcopy(model)  # 首先把输入的模型给deepcopy一下，放到本地记作model_0，用于后面的对比。
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
     for _ in range(n_SGD):
         '''
