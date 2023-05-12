@@ -75,7 +75,7 @@ def accuracy_dataset(model, dataset):  # 计算在测试数据集上模型的准
     1. label是分类，是我们要预测的东西。 
     2. feature是特征，应该就是统计中的指标，比如 黄色，圆
     3. 如果训练出feature和label之间的关系，那我们可以通过feature来预测label的值。
-    '''
+    ''' 
     for features, labels in dataset:
         features = features.to(device)
         predictions = model(features) # 对应注释中，我们根据feature和model，来得出label的prediction
