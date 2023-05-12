@@ -7,6 +7,7 @@ sys.path.append("..")
 from sampling_test.read_db import get_dataloaders
 from py_func.FedProx import accuracy_dataset
 from py_func.create_model import NN
+from py_func.create_model import CNN_CIFAR_dropout
 from torch.utils.data import DataLoader
 from torchvision.datasets import MNIST
 import torchvision.transforms as transforms
