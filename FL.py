@@ -70,9 +70,23 @@ model_0 = load_model(dataset, seed)
 print(model_0)
 
 ## by zzy begin 
+import torch
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 print("Experiment running on device: {}".format(device))
 model_0.to(device=device)
+
+print("start move dataset to gpu")
+if "{}".format(device) != "cpu":
+    print("start move dataset to gpu")
+    for dataloader in list_dls_test:
+        for inputs, labels in dataloader:
+            inputs = inputs.to(device)
+            labels = labels.to(device)
+    for dataloader in list_dls_train:
+        for inputs, labels in dataloader:
+            inputs = inputs.to(device)
+            labels = labels.to(device)
+    print("move done")
 ## by zzy end
 
 """FEDAVG with random sampling"""
