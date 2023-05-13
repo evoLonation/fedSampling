@@ -58,15 +58,15 @@ elif dataset == "cifar":
 		file2 = open("saved_exp_info/CIFAR10_nbal_0.001_python.txt", "w")
 		list_ds_test = get_dataloaders("CIFAR10_nbal_0.001", 50)
 
-
+# if dataset == "cifar" and isiid:
 file2.write("datasets = [\n")
 for (i, ds) in enumerate(list_ds_test):
 	file2.write("[")
 	file.write(f"client {i}\n")
 	print(f"client {i}")
-	for i in range(10):
+	for j in range(100):
 		new_indices = np.random.choice(len(ds), size=len(ds), replace=True)
-		sampled_ds = [ds[i] for i in new_indices]
+		sampled_ds = [ds[k] for k in new_indices]
 		dl = DataLoader(sampled_ds, batch_size=200, shuffle=True)
 		acc = accuracy_dataset(model, dl)
 		file.write(f"{acc}\n")
