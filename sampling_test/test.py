@@ -42,26 +42,35 @@ model.eval()
 if dataset == "mnist" :
 	if isiid:
 		file = open("saved_exp_info/MNIST_iid.txt", "w")
+		file2 = open("saved_exp_info/MNIST_iid_python.txt", "w")
 		list_ds_test = get_dataloaders("MNIST_iid", 50)
 	else:
 		file = open("saved_exp_info/MNIST_shard.txt", "w")
+		file2 = open("saved_exp_info/MNIST_shard_python.txt", "w")
 		list_ds_test = get_dataloaders("MNIST_shard", 50)
 elif dataset == "cifar":
 	if isiid:
 		file = open("saved_exp_info/CIFAR10_iid.txt", "w")
+		file2 = open("saved_exp_info/CIFAR10_iid_python.txt", "w")
 		list_ds_test = get_dataloaders("CIFAR10_iid", 50)
 	else:
 		file = open("saved_exp_info/CIFAR10_nbal_0.001.txt", "w")
+		file2 = open("saved_exp_info/CIFAR10_nbal_0.001_python.txt", "w")
 		list_ds_test = get_dataloaders("CIFAR10_nbal_0.001", 50)
 
 
+file2.write("datasets = [\n")
 for (i, ds) in enumerate(list_ds_test):
+	file2.write("[")
 	file.write(f"client {i}\n")
 	print(f"client {i}")
-	for i in range(100):
+	for i in range(10):
 		new_indices = np.random.choice(len(ds), size=len(ds), replace=True)
 		sampled_ds = [ds[i] for i in new_indices]
 		dl = DataLoader(sampled_ds, batch_size=200, shuffle=True)
 		acc = accuracy_dataset(model, dl)
 		file.write(f"{acc}\n")
 		print(acc)
+		file2.write(f"{acc}, ")
+	file2.write("],\n")
+file2.write("]\n")
