@@ -5,5 +5,5 @@
 data/MNIST/*
 data/cifar*
 *.pdf
-experiments_info/*.py
+experiments_info
 *.sh
